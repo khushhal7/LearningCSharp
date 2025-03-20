@@ -11,6 +11,7 @@ namespace LearningCSharp
         public static void Main()
         {
             Console.WriteLine("We're in Function.cs file");
+            Console.WriteLine("Making changes after pushing to github");
         }
     }
 }
