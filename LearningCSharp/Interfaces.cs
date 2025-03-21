@@ -1,12 +1,8 @@
-﻿namespace LearningCSharp
+﻿interface Ia
+{
+        
+}
+internal class Interfaces
 {
 
-    interface Ia
-    {
-        
-    }
-    internal class Interfaces
-    {
-
-    }
 }
