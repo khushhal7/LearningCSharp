@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningCSharp
+﻿
+public class FileName
 {
-    internal class FileName
+    public staic void Main()
     {
-        public staic void Main()
-        {
-            Console.WriteLine("In FileName");
-        }
+        Console.WriteLine("In FileName");
+        Console.WriteLine("change in filename.cs file");
     }
 }
