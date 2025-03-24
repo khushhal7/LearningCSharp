@@ -5,11 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_24_Demo</StartupObject>
+    <StartupObject>_48_Types_TypeMembers_Region</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="FileName.cs" />
-  </ItemGroup>
 
 </Project>
